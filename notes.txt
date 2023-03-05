@@ -1,0 +1,5 @@
+1. Nagy alcímeknél átdob külön oldalra, úgy jön ki ennyi szöveggel
+
+2. Átszinezni mindent
+
+3. Képeket kicserélni, keresni font stílust
